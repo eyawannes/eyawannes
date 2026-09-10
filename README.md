@@ -202,7 +202,7 @@ Design and implementation of a secure enterprise network infrastructure.
 
 ## 🛠️ Security Tools
 
-```text
+
 Wazuh
 Zabbix
 Grafana
@@ -219,7 +219,9 @@ GNS3
 Packet Tracer
 Fortinet
 
-## 💻 Programming
+---
+
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -227,12 +229,15 @@ Fortinet
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
 ## 🏆 Certifications
 
 - 🔐 **eJPT – eLearnSecurity Junior Penetration Tester**
 - 🐧 **RHCE – Red Hat Certified Engineer**
 - 🌐 **CCNA – Cisco Certified Network Associate**
-
+  
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -242,6 +247,7 @@ Fortinet
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyawannes&theme=tokyonight&hide_border=true" />
 </p>
+---
 
 ## 🌍 Languages
 
@@ -252,6 +258,7 @@ Fortinet
 | 🇬🇧 English | Advanced |
 | 🇮🇹 Italian | Intermediate |
 | 🇩🇪 German | Beginner |
+---
 ## 🎯 Current Goals
 
 - 🛡️ Develop my expertise in **SOC & Blue Team**
@@ -261,6 +268,7 @@ Fortinet
 - 🚀 Gain professional experience in cybersecurity
 - 🌍 Build an international cybersecurity career
 - 📚 Continue improving my technical and security skills
+---
 ## 🤝 Connect With Me
 
 <p align="center">
