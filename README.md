@@ -218,3 +218,66 @@ Trivy
 GNS3
 Packet Tracer
 Fortinet
+
+## 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🏆 Certifications
+
+- 🔐 **eJPT – eLearnSecurity Junior Penetration Tester**
+- 🐧 **RHCE – Red Hat Certified Engineer**
+- 🌐 **CCNA – Cisco Certified Network Associate**
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyawannes&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyawannes&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇹🇳 Arabic | Native |
+| 🇫🇷 French | Advanced |
+| 🇬🇧 English | Advanced |
+| 🇮🇹 Italian | Intermediate |
+| 🇩🇪 German | Beginner |
+## 🎯 Current Goals
+
+- 🛡️ Develop my expertise in **SOC & Blue Team**
+- 🔐 Deepen my knowledge in **Cybersecurity & Network Security**
+- ☁️ Improve my skills in **Cloud Security**
+- 🤖 Explore **AI for Cybersecurity**
+- 🚀 Gain professional experience in cybersecurity
+- 🌍 Build an international cybersecurity career
+- 📚 Continue improving my technical and security skills
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/eyawannes">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wanes-eya-86001a2b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:waneseya75@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+
