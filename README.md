@@ -203,21 +203,21 @@ Design and implementation of a secure enterprise network infrastructure.
 ## 🛠️ Security Tools
 
 
-Wazuh
-Zabbix
-Grafana
-Suricata
-Wireshark
-Nmap
-Metasploit
-TheHive
-Shuffle
-VirusTotal
-OWASP ZAP
-Trivy
-GNS3
-Packet Tracer
-Fortinet
+- Wazuh
+- Zabbix
+- Grafana
+- Suricata
+- Wireshark
+- Nmap
+- Metasploit
+- TheHive
+- Shuffle
+- VirusTotal
+- OWASP ZAP
+- Trivy
+- GNS3
+- Packet Tracer
+- Fortinet
 
 ---
 
