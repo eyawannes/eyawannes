@@ -1,16 +1,220 @@
-## Hi there 👋
+# 👋 Hi, I'm Eya Wanes!
 
-<!--
-**eyawannes/eyawannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity & Network Engineering Student | SOC | Blue Team | Cloud Security
 
-Here are some ideas to get you started:
+I'm a final-year **Cybersecurity and Network Engineering student at TEK-UP University**, passionate about cybersecurity, network security, SOC operations, and cloud security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building and experimenting with security infrastructures, monitoring platforms, SIEM solutions, secure network environments, and automated security solutions.
+
+---
+
+## 🛡️ About Me
+
+- 🎓 Final-year Engineering Cycle student in **Cybersecurity & Network Engineering**
+- 🏫 **TEK-UP University**
+- 🇹🇳 Tunisia
+- 🔐 Interested in **SOC, Blue Team, Network Security & Cloud Security**
+- 🖥️ Hands-on experience with **Linux, Windows, SIEM and Network Security**
+- 🐧 Linux system administration and security monitoring
+- 🌐 Secure network infrastructure and cloud security
+- 🤖 Exploring **AI applications in cybersecurity**
+- 🚀 Interested in cybersecurity engineering and security operations
+
+---
+
+## 🚀 Featured Cybersecurity Projects
+
+### 🛡️ Unified SOC & Network Monitoring Platform
+
+A unified security and network infrastructure monitoring platform designed to simulate a SOC environment.
+
+The platform combines security monitoring and network infrastructure monitoring to provide centralized visibility and real-time analysis.
+
+**Technologies:**
+
+`Wazuh` `Zabbix` `Grafana` `Linux` `SIEM` `Network Monitoring`
+
+**Key Features:**
+
+- 🔎 Security event monitoring
+- 🚨 Real-time threat detection
+- 📊 Centralized security dashboards
+- 🌐 Network infrastructure monitoring
+- 📈 Security and infrastructure visualization
+- 🛡️ Centralized monitoring architecture
+
+---
+
+### 🤖 Adaptive Hybrid AI-SOC
+
+A cybersecurity architecture combining traditional SOC technologies with AI-based anomaly detection.
+
+The project focuses on detecting suspicious network behavior and improving security monitoring using machine learning.
+
+**Technologies:**
+
+`GNS3` `Kali Linux` `Debian` `Suricata` `Wazuh` `ELK` `Python` `Isolation Forest` `Docker`
+
+**Key Features:**
+
+- 🔍 Network traffic monitoring
+- 🚨 Intrusion detection
+- 🤖 AI-based anomaly detection
+- 📊 Centralized security monitoring
+- 🔐 Secure DevSecOps deployment
+- 🧠 Machine-learning-based detection
+
+---
+
+### 🚨 Automated SOC & Incident Response
+
+An automated SOC environment designed for security monitoring, threat investigation, threat intelligence, and incident response.
+
+**Technologies:**
+
+`Wazuh` `Shuffle` `TheHive` `Sysmon` `VirusTotal` `Windows` `Linux`
+
+**Key Features:**
+
+- 🛡️ SIEM monitoring
+- 🔎 Threat investigation
+- ⚡ Security automation
+- 🚨 Automated incident response
+- 🦠 Malware analysis
+- 📋 Incident management
+
+---
+
+### 🔐 Privileged Access Management
+
+A secure privileged access environment integrating identity management, multi-factor authentication, and monitoring.
+
+**Technologies:**
+
+`Active Directory` `MFA` `PAM` `Windows Server` `Monitoring`
+
+**Key Features:**
+
+- 👤 Identity management
+- 🔑 Privileged access control
+- 🔐 Multi-factor authentication
+- 📊 Access monitoring
+- 🛡️ Secure administration
+
+---
+
+### 🌐 Secure Network Infrastructure
+
+Design and implementation of a secure enterprise network infrastructure.
+
+**Technologies:**
+
+`Cisco` `OSPF` `BGP` `MPLS` `HSRP` `DHCP` `Zabbix` `Fortinet` `TACACS+`
+
+**Key Features:**
+
+- 🌐 Routing & Switching
+- 🔄 High availability
+- 🔐 Network security
+- 📊 Infrastructure monitoring
+- 🛡️ Secure administration
+- 🔑 Network access control
+
+---
+
+## 🧰 Cybersecurity Skills
+
+### 🔐 Cybersecurity
+
+![SOC](https://img.shields.io/badge/SOC-Operations-red?style=for-the-badge)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-Defense-blue?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-Monitoring-purple?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/Pentesting-Security-black?style=for-the-badge)
+
+- SOC Operations
+- SIEM
+- Threat Detection
+- Threat Hunting
+- Vulnerability Management
+- Network Security
+- Penetration Testing
+- Security Auditing
+- Incident Response
+- OSINT
+- Malware Analysis
+- Security Monitoring
+
+---
+
+## 🖥️ Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+- Linux
+- Red Hat Enterprise Linux
+- Ubuntu
+- Windows
+- Windows Server
+- Linux System Administration
+- Windows Administration
+
+---
+
+## 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+- TCP/IP
+- VLAN
+- DHCP
+- DNS
+- OSPF
+- BGP
+- MPLS
+- HSRP
+- Routing & Switching
+- Network Monitoring
+- Network Security
+- High Availability
+- Access Control
+
+---
+
+## ☁️ Cloud & DevSecOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- AWS
+- Azure
+- Docker
+- DevSecOps
+- CI/CD Security
+- Container Security
+- Vulnerability Scanning
+- Cloud Security
+
+---
+
+## 🛠️ Security Tools
+
+```text
+Wazuh
+Zabbix
+Grafana
+Suricata
+Wireshark
+Nmap
+Metasploit
+TheHive
+Shuffle
+VirusTotal
+OWASP ZAP
+Trivy
+GNS3
+Packet Tracer
+Fortinet
